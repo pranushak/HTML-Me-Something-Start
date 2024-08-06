@@ -9,9 +9,16 @@ ul {
     list-style-type: disc;
 }
 img {
-    height : 50%;
-    width : 50%;
+    height : 90%;
+    width : 90%;
 }
+.center-image {
+    text-align: center;
+  }
+ .center-image-margin {
+    display: block;
+    margin: 0 auto;
+  }
 p {
     font-size: 1.4rem;
 }
