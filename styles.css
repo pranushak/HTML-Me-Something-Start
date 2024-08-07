@@ -28,3 +28,7 @@ p {
 .funParagraph {
     color: green;
 }
+body {
+    margin: 8px;
+    display: block;
+}
